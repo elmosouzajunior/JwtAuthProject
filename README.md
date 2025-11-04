@@ -92,9 +92,9 @@ O projeto é configurado para ser testado via **Swagger UI**.
 
 Se você tiver alguma dúvida ou sugestão sobre o projeto, sinta-se à vontade para entrar em contato:
 
-*   **Seu Nome/GitHub:** [Seu Nome de Usuário do GitHub]
-*   **LinkedIn:** [Seu Perfil do LinkedIn]
-*   **Email:** [Seu Email]
+*   **Seu Nome/GitHub:** elmosouzajunior
+*   **LinkedIn:** https://www.linkedin.com/in/elmosouzajunior/
+*   **Email:** elmosouzajunior@gmail.com
 
 ---
 *Este projeto foi desenvolvido como parte de um portfólio de estudos em .NET.*
